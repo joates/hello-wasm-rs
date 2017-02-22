@@ -1,5 +1,7 @@
 *.js
 *.wasm
+*.asm.js
+*.html
 
 target
 Cargo.lock
